@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="959a7d23-4a45-4718-be38-2b465ff4ede1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GoodJob/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GoodJob/Dandelion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GoodJob/Fly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GoodJob/GoodJob.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GoodJob/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GoodJob/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GoodJob/Man.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework/CalculatorABstractionInheitance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework/CalculatorAbstarct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework/CalculatorInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework/CalculatorInterfaceIMPL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IndependentWork/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IndependentWork/CalculatorInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IndependentWork/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IndependentWork/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IndependentWork/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IndependentWork/SavingData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IndependentWork/sdss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PolymorphismAndStaticMethods/Database.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PolymorphismAndStaticMethods/Fly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PolymorphismAndStaticMethods/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PolymorphismAndStaticMethods/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PolymorphismAndStaticMethods/WeeksDays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/computer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="26nakVD4HXltUo2L1l1if8AjDVY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IndependentWork.Car" />
+      <module name="InterfacesAndAbstractClasses" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IndependentWork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IndependentWork.Main" />
+      <module name="InterfacesAndAbstractClasses" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IndependentWork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PolymorphismAndStaticMethods.Main" />
+      <module name="InterfacesAndAbstractClasses" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PolymorphismAndStaticMethods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.Main" />
+      <module name="InterfacesAndAbstractClasses" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sdss" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IndependentWork.sdss" />
+      <module name="InterfacesAndAbstractClasses" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IndependentWork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.sdss" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Car" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="959a7d23-4a45-4718-be38-2b465ff4ede1" name="Changes" comment="" />
+      <created>1648061950483</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648061950483</updated>
+      <workItem from="1648061952477" duration="2855000" />
+      <workItem from="1648660107536" duration="38607000" />
+      <workItem from="1649089201129" duration="9236000" />
+      <workItem from="1649265983009" duration="9034000" />
+      <workItem from="1649499558554" duration="11159000" />
+      <workItem from="1649624109018" duration="3118000" />
+      <workItem from="1649703259365" duration="13131000" />
+      <workItem from="1649962348333" duration="11075000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/IndependentWork/sdss.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/IndependentWork/SavingData.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/IndependentWork/SavingData.java</url>
+          <line>10</line>
+          <properties class="IndependentWork.SavingData" method="vivod">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/InterfacesAndAbstractClasses$Main__1_.ic" NAME="Main (1) Coverage Results" MODIFIED="1648925190821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>IndependentWork.*</FILTER>
+    </SUITE>
+  </component>
+</project>
