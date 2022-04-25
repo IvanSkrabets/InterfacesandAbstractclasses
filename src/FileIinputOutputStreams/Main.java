@@ -36,6 +36,7 @@ public class Main {
 //    } catch (IOException e) {
 //        e.printStackTrace();
 //    }
+//        +++++++++++++++++++++++++++++++++++++++++=
 //        try (FileInputStream fileInputStream = new FileInputStream("file.txt") ) {
 //        byte[] bytesArray = fileInputStream.readAllBytes();
 //        String value = new String(bytesArray);
@@ -43,11 +44,13 @@ public class Main {
 //    } catch (IOException e) {
 //        e.printStackTrace();
 //    }
-        try(FileOutputStream fileOutputStream = new FileOutputStream("file1.txt")) {
-            String someValue = "Hello World";
-            fileOutputStream.write(someValue.getBytes(StandardCharsets.UTF_8));
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
+//        +++++++++++++++++++++++++++++++++++++++++
+//        try(FileOutputStream fileOutputStream = new FileOutputStream("file1.txt")) {
+//            String someValue = "Hello World";
+//            fileOutputStream.write(someValue.getBytes(StandardCharsets.UTF_8));
+//        } catch (IOException e) {
+//            e.printStackTrace();
+//        }
+//        =============================================
     }
 }
