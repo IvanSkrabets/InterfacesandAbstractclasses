@@ -6,7 +6,7 @@ import java.util.Arrays;
 public class Main {
     public static void main(String[] args) {
 //        String a = new String("Hello Wolrd");
-        String a = "Hello World";
+        String a = "    Hello World    ";
         String b = "Hello World";
         System.out.println("equls   "+  a.equals(b));
         System.out.println("getBytes   "+ Arrays.toString(a.getBytes(StandardCharsets.UTF_8)));

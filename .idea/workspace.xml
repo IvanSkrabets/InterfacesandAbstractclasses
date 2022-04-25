@@ -1,38 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="959a7d23-4a45-4718-be38-2b465ff4ede1" name="Changes" comment="">
+    <list default="true" id="959a7d23-4a45-4718-be38-2b465ff4ede1" name="Changes" comment="commit">
       <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GoodJob/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GoodJob/Dandelion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GoodJob/Fly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GoodJob/GoodJob.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GoodJob/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GoodJob/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GoodJob/Man.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework/CalculatorABstractionInheitance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework/CalculatorAbstarct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework/CalculatorInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework/CalculatorInterfaceIMPL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IndependentWork/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IndependentWork/CalculatorInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IndependentWork/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IndependentWork/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IndependentWork/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IndependentWork/SavingData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IndependentWork/sdss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PolymorphismAndStaticMethods/Database.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PolymorphismAndStaticMethods/Fly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PolymorphismAndStaticMethods/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PolymorphismAndStaticMethods/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PolymorphismAndStaticMethods/WeeksDays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionsAndErrors/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionsAndErrors/GoodJob.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionsAndErrors/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionsAndErrors/MyOwnException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FileIinputOutputStreams/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/HomeWork.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/computer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InterfacesAndAbstractClasses/String/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InterfacesAndAbstractClasses/String/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,14 +48,25 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
-    <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IndependentWork.Car" />
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ExceptionsAndErrors" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Jawa\InterfacesandAbstractclasses\src" />
+      <recent name="D:\Jawa\InterfacesandAbstractclasses\src\FileIinputOutputStreams" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="GoodJob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExceptionsAndErrors.GoodJob" />
       <module name="InterfacesAndAbstractClasses" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="IndependentWork.*" />
+          <option name="PATTERN" value="ExceptionsAndErrors.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IndependentWork.Main" />
+    <configuration name="HomeWork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.HomeWork" />
       <module name="InterfacesAndAbstractClasses" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="IndependentWork.*" />
+          <option name="PATTERN" value="String.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,11 +88,11 @@
       </method>
     </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PolymorphismAndStaticMethods.Main" />
+      <option name="MAIN_CLASS_NAME" value="FileIinputOutputStreams.Main" />
       <module name="InterfacesAndAbstractClasses" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PolymorphismAndStaticMethods.*" />
+          <option name="PATTERN" value="FileIinputOutputStreams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sdss" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IndependentWork.sdss" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExceptionsAndErrors.Main" />
       <module name="InterfacesAndAbstractClasses" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="IndependentWork.*" />
+          <option name="PATTERN" value="ExceptionsAndErrors.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.sdss" />
-        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Car" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.GoodJob" />
+        <item itemvalue="Application.HomeWork" />
+        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -159,8 +151,21 @@
       <workItem from="1649499558554" duration="11159000" />
       <workItem from="1649624109018" duration="3118000" />
       <workItem from="1649703259365" duration="13131000" />
-      <workItem from="1649962348333" duration="11075000" />
+      <workItem from="1649962348333" duration="13329000" />
+      <workItem from="1650388625646" duration="29000" />
+      <workItem from="1650388770378" duration="445000" />
+      <workItem from="1650391844635" duration="17684000" />
+      <workItem from="1650735771715" duration="2726000" />
+      <workItem from="1650903332182" duration="5298000" />
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1650132580217</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1650132580217</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,6 +182,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -190,6 +199,11 @@
           <line>9</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/String/HomeWork.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/IndependentWork/SavingData.java</url>
           <line>10</line>
@@ -198,6 +212,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/String/HomeWork.java</url>
+          <line>19</line>
+          <properties class="String.HomeWork" method="Polydrome">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
